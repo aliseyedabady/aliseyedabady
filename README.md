@@ -1,6 +1,6 @@
 ### Hello I'm Ali Seyedabady (Front-End Developer)
 
-## Developer & Graphic Designer
+## Developer
 
 Are you looking to create a stunning website or a powerful mobile application? Look no further! I specialize in delivering top-notch web and mobile development services tailored to meet your unique needs.
 
