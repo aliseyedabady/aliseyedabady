@@ -1,7 +1,5 @@
 ### Hello I'm Ali Seyedabady (Front-End Developer)
 
-===============================
-
 ## Developer & Graphic Designer
 
 Are you looking to create a stunning website or a powerful mobile application? Look no further! I specialize in delivering top-notch web and mobile development services tailored to meet your unique needs.
@@ -14,7 +12,7 @@ Are you looking to create a stunning website or a powerful mobile application? L
   <a><img alt="Node.js Light Horizontal Logo" src="https://nodejs.org/static/logos/jsIconGreen.svg"  width="36" height="36"></a>
 </p>
 
-**Languages**
+**Languages and Tools**
 
 <code><img height="30" src="https://raw.githubusercontent.com/Kuruchy/Kuruchy/master/data/git.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
@@ -26,4 +24,3 @@ Are you looking to create a stunning website or a powerful mobile application? L
 <p align="left">
     <a href="https://www.instagram.com/aliseyedabady" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/aliseyedabady/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-# aliseyedabady
