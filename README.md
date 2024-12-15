@@ -11,7 +11,9 @@ Are you looking to create a stunning website or a powerful mobile application? L
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="36" height="36" alt="NextJs" /></a>
   <a><img alt="Node.js Light Horizontal Logo" src="https://nodejs.org/static/logos/jsIconGreen.svg"  width="36" height="36"></a>
 </p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliseyedabady)](https://github.com/anuraghazra/github-readme-stats)
+
 **Languages and Tools**
 
 <code><img height="30" src="https://raw.githubusercontent.com/Kuruchy/Kuruchy/master/data/git.svg"></code>
